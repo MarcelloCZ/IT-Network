@@ -27,21 +27,25 @@
                 switch (volba)
                 {
                     case '1':
-                        
+
                         Console.WriteLine("Zadejte jméno pojištěného:");
                         string jmeno;
-                        while(string.IsNullOrWhiteSpace(jmeno = Console.ReadLine()))
+                        while (string.IsNullOrWhiteSpace(jmeno = Console.ReadLine()) || !IsAlphaOnly(jmeno))
                         {
-                            Console.WriteLine("Zadej znovu.");
-                        }
-                        string prijmeni;
-                        Console.WriteLine("Zadejte příjmení pojištěného:");
-                        while(string.IsNullOrWhiteSpace(prijmeni = Console.ReadLine()))
-                        {
-                            Console.WriteLine("Zadej znovu.");
+                            Console.WriteLine("Zadejte platné jméno (pouze písmena)");
                         }
 
-                      
+                        Console.WriteLine("Zadejte příjmení pojištěného:");
+                        string prijmeni;
+                        while (string.IsNullOrWhiteSpace(prijmeni = Console.ReadLine()) || !IsAlphaOnly(prijmeni))
+                        {
+                            Console.WriteLine("Zadejte platné příjmení (pouze písmena)");
+                        }
+                        static bool IsAlphaOnly(string text)
+                        {
+                            return !string.IsNullOrEmpty(text) && text.All(char.IsLetter);
+                        }
+
                         Console.WriteLine("Zadej věk pojištěného:");
                         int vek;
                         while (!int.TryParse(Console.ReadLine(), out vek))

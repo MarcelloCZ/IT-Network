@@ -25,7 +25,7 @@ namespace ConsoleApp1
 
 
         
-        // textová reprezentace
+        
         public override string ToString()
         {
             return "Jméno: " + Jmeno  + " Příjmení: " + Prijmeni + " Věk: " + Vek + " Telefon: " + Telefon;
