@@ -27,3 +27,17 @@ C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\Projekt-EvidencePojis
 C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\Projekt-EvidencePojistencu-master\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\Projekt-EvidencePojistencu-master\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\Projekt-EvidencePojistencu-master\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\domin\Downloads\Projekt-EvidencePojistencu-master\IT-Network\Závěrečný projekt\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
